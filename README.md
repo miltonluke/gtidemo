@@ -1,2 +1,2 @@
 # gtidemo
-ddemo of git for class
+demo of git for class
